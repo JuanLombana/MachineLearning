@@ -1,4 +1,4 @@
-ResourceGruop;Name;Nodes;Size;Tier;File
+ResourceGroup;Name;Nodes;Size;Tier;File
 Default-SQL-SouthCentralUS;WebFlowersPA;2;Standard_A1_v2;Standard;WebFlowersPAresults.json
 Default-Storage-SouthCentralUS;WebflowersIC;2;Standard_A1_v2;Standard;WebflowersICresults.json
 WebFlowersAL;WebFlowersAL;2;Standard_A1_v2;Standard;WebFlowersALresults.json
