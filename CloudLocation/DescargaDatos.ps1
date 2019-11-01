@@ -3,7 +3,7 @@ $subscriptionId = (Get-AzSubscription -SubscriptionName "Queens Network EA").Sub
 Set-AzContext -Subscription $subscriptionId
 
 # Password for the service principal
-$pwd = "Patasola21+"
+$pwd = "Xxxxxxx00*"
 $secureStringPassword = ConvertTo-SecureString -String $pwd -AsPlainText -Force
 
 # Create a new Azure AD application
